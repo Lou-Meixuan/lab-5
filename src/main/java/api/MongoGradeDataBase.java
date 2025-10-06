@@ -1,7 +1,6 @@
 package api;
 
 import java.io.IOException;
-import java.lang.reflect.Array;
 
 import org.json.JSONArray;
 import org.json.JSONException;
