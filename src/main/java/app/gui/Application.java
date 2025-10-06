@@ -353,7 +353,6 @@ public class Application {
             }
         });
 
-        // DONE: TODO Task 4: Add action listener for getTopGrade button, follow example of getAverageButton
         getTopGradeButon.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e){
